@@ -82,7 +82,7 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="Matplotlib"/></td>
     <td align="center"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" height="50" alt="Seaborn"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter"/></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Qiskit-Logo.svg/120px-Qiskit-Logo.svg.png" width="50" height="50" alt="Qiskit"/></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/qiskit/6929C4" width="50" height="50" alt="Qiskit"/></td>
   </tr></table>
 </div>
 
@@ -116,6 +116,6 @@
     <td align="center"><a href="mailto:pujarishradha779@gmail.com">
       <img src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="Email" height="30" width="40"/></a></td>
     <td align="center"><a href="https://github.com/Shradhapujari/Shradha-Pujari-Portfolio" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Portfolio" height="40" width="40"/></a></td>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white"><img src="https://cdn.simpleicons.org/github/181717" alt="Portfolio" height="40" width="40"/></picture></a></td>
   </tr></table>
 </div>
