@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#0b1020"/>
+<stop offset="0.55" stop-color="#121a36"/>
+<stop offset="1" stop-color="#1b1140"/>
+</linearGradient>
+<linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#6AD3F7"/>
+<stop offset="1" stop-color="#B98CFF"/>
+</linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+<path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+</pattern>
+</defs>
+<rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+<!-- agent graph motif -->
+<g stroke="#6AD3F7" stroke-opacity="0.35" stroke-width="1.5" fill="none">
+<path d="M900 80 L1010 140 L1100 90 M1010 140 L980 225 L1090 215 M1010 140 L1090 215 M900 80 L980 225"/>
+</g>
+<g fill="#0b1020" stroke-width="2.5">
+<circle cx="900" cy="80" r="11" stroke="#6AD3F7"/>
+<circle cx="1010" cy="140" r="16" stroke="#B98CFF"/>
+<circle cx="1100" cy="90" r="9" stroke="#6AD3F7"/>
+<circle cx="980" cy="225" r="10" stroke="#6AD3F7"/>
+<circle cx="1090" cy="215" r="12" stroke="#B98CFF"/>
+</g>
+<circle cx="1010" cy="140" r="5" fill="#B98CFF"/>
+<g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">
+<text x="70" y="118" fill="#ffffff" font-size="56" font-weight="700">Shradha Pujari</text>
+<rect x="72" y="138" width="120" height="4" rx="2" fill="url(#acc)"/>
+<text x="70" y="186" fill="#cfd8ff" font-size="24">AI / ML Engineer &amp; Graduate Researcher · RAG &amp; Agentic Systems</text>
+<text x="70" y="226" fill="#8b95c9" font-size="18" font-family="'Fira Code',Consolas,monospace">retrieve() → reason() → act() → evaluate()</text>
+</g>
+</svg>
